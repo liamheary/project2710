@@ -3,6 +3,7 @@
  * Auburn Banner ID: 904294574
  * Filename: project2_Heary_wjh0051_v2.cpp
  * How to compile: g++ project2_Heary_wjh0051_v2.cpp -o project2_v2 -Wall
+ * Run with - ./project2_v2
  *
  * Description:
  *   This program simulates "Truel of the Fates," a three-person duel among Aaron, Bob,
